@@ -1,2 +1,1 @@
-# BiodataSonificationBreadboardKit
-Biodata Sonification kit using breadboard, for Arduino Uno 'Sheild'
+The original repo can be found on: https://github.com/electricityforprogress/BiodataSonificationBreadboardKit 
